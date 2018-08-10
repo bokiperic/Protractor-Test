@@ -1,0 +1,18 @@
+{
+  "_comment": "Examples of this are in GmailTest.js",
+  "testsiteurl": "http://gmail.com",
+
+  "locators": {
+    "loginpage": {
+      "username": "//*[@id='Email']",
+      "next": "next"
+    }
+  },
+
+  "userdetails": {
+    "username1": "bokiperic@gmail.com",
+    "password1": "Admin123",
+    "username2": "bperic123@gmail.com",
+    "password2": "Admin321"
+  }
+}
